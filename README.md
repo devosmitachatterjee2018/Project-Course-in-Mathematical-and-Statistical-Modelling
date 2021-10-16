@@ -1,3 +1,6 @@
+## Context
+Ensuring safety of operation is one of biggest challenges for market introduction of autonomous driving vehicles. Autonomous vehicle must manage with any kind of traffic scenario that can possibly occur. Therefore, to verify autonomous driving, the comprehensive set of traffic scenarios needs to be identified. There is need for a mathematical model to determine what should be interpreted as similar scenarios, and what should not be.
+
 ## Project
 The project aims to find a model and investigate its capability to identify all possible kinds of complex traffic scenarios around autonomous vehicles.
 
